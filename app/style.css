@@ -45,6 +45,7 @@ body {
   margin: 5px;
   padding: 5px;
   font-style: bold;
+  margin-bottom: -7px;
 }
 .arrow {
   text-align: right;
@@ -58,6 +59,7 @@ body {
   background-color: rgb(223, 217, 217);
   margin: 5px;
   padding: 5px;
+  margin-top: -4px;
 }
 .btn1 {
   border-radius: 10px;
