@@ -108,5 +108,32 @@ body {
   display: flex;
   justify-content: center;
 }
-#div1 {
+.fav {
+  display: inline;
+  background-color: aqua;
+  border-radius: 15px;
+}
+.favsymG {
+  display: inline;
+  background-color: rgb(61, 142, 196);
+  border-radius: 15px;
+  height: 25px;
+  width: 25px;
+  text-align: center;
+}
+.favsymA {
+  display: inline;
+  background-color: wheat;
+  border-radius: 15px;
+  height: 25px;
+  width: 25px;
+  text-align: center;
+}
+.favsymV {
+  display: inline;
+  background-color: rgb(196, 61, 185);
+  border-radius: 15px;
+  height: 25px;
+  width: 25px;
+  text-align: center;
 }
