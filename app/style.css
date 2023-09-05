@@ -84,6 +84,8 @@ body {
   margin-top: -4px;
   margin-bottom: -5px;
   border-radius: 15px;
+  margin-right: -3px;
+  margin-left: -3px;
 }
 .btn1 {
   border-radius: 10px;
